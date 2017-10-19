@@ -1,0 +1,9 @@
+{
+    "name": "Test Server",
+    "description": "A demonstration app for Heroku",
+    "image": "heroku/python",
+    "keywords": [
+        "Heroku"
+    ],
+    "addons": []
+}
